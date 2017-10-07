@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LocalBundle"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "Easier way to handle UserDefaults."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   Easier way to handle UserDefaults - give it a try!
                    DESC
 
-  s.homepage     = "https://github.com/felipericieri/LocalBundle-Pod.git"
+  s.homepage     = "https://github.com/felipericieri/LocalBundle.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
